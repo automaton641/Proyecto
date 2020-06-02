@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Carta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Carta_jar</output-path>
+    <root id="archive" name="Carta.jar">
+      <element id="module-output" name="Carta" />
+      <element id="module-output" name="Sentidos" />
+    </root>
+  </artifact>
+</component>
